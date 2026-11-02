@@ -27,4 +27,4 @@ Requisito: JDK 11 o superior.
 El fichero de datos guarda objetos Java serializados (formato binario), así que no se puede editar a mano. Contiene tres empleados de ejemplo.
 
 ## Capturas
-![Consola](capturas/consola.png)
+![consola](capturas/consola.png)
