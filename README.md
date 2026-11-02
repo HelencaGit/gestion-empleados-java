@@ -24,7 +24,7 @@ Requisito: JDK 11 o superior.
 3. Ejecuta `App.java`. El directorio de trabajo debe ser la raíz del proyecto, donde está el fichero de datos.
 
 ## Nota
-El fichero de datos guarda objetos Java serializados (formato binario), así que no se puede editar a mano. Contiene tres empleados de ejemplo.
+El fichero de datos guarda objetos Java serializados (formato binario), así que no se puede editar a mano. Contiene dos empleados de ejemplo.
 
 ## Capturas
 ![consola](captura/consola.png)
